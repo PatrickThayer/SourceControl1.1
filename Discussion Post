@@ -1,3 +1,17 @@
 https://github.com/github/gitignore.git
 I don't really know much about .gitignore files.  I know what they are, but not really what they ought or oughtn't include, but this seemed like a good one to include
 in this assignment.
+
+https://github.com/Kavex/GameDev-Resources.git
+This repo had links to some really handy sites for assets for game development.
+
+https://github.com/dsasmblr/game-hacking.git
+This repo discusses hacking adn reverse engineering games.  I don't know much abuot the subject, but sounds interesting to me, and worth revisiting.
+
+https://github.com/googleforgames/open-match.git
+This repo is still in active development, but it focuses on how to code and design matchmaking software for video games.  I don't know what kind of games or game mechanics
+I may end up working on, but this could be useful both professionally and personally.
+
+https://github.com/leereilly/games.git
+This repo has links to all sorts of mini-games on git, and their source code for those who'd like to make something similar.  This could provide some neat examples,
+and looking through the source code could offer some good insight.
